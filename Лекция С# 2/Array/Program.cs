@@ -1,4 +1,6 @@
-﻿int Max (int arg1, int arg2, int arg3)
+﻿
+
+int Max (int arg1, int arg2, int arg3)
 {
     int result = arg1;
     if (arg2 > result) result = arg2;
@@ -7,15 +9,6 @@
 
     }
 
-int a1 = 28;
-int b1 = 5;
-int c1 = 8;
-int a2 = 6;
-int b2 = 52;
-int c2 = 89;
-int a3 = 257;
-int b3 = 53;
-int c3 = 87;
 
 // int max1 = Max(a1, b1, c1);
 // int max2 = Max(a2, b2, c2);
